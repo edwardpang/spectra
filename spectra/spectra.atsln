@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "spectra", "spectra\spectra.cproj", "{19EEA783-0F3D-4EB1-A994-D0A336BC1C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EEA783-0F3D-4EB1-A994-D0A336BC1C4F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{19EEA783-0F3D-4EB1-A994-D0A336BC1C4F}.Debug|ARM.Build.0 = Debug|ARM
+		{19EEA783-0F3D-4EB1-A994-D0A336BC1C4F}.Release|ARM.ActiveCfg = Release|ARM
+		{19EEA783-0F3D-4EB1-A994-D0A336BC1C4F}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
